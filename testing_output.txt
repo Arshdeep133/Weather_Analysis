@@ -1,0 +1,80 @@
+1. Tests on avgTMAX values for year 2016 
+    a. Linegress result values: 
+            slope: 109954.6031025596
+            intercept: 3783116.772516484
+            r_value: 0.18322933041707748
+            p_value: 0.12074358613494897
+            std_err: 70012.20834536824
+    b. Normaltest result values: 
+            p_value: 0.3577903694649577
+    c. ttest result values: 
+            t_stat: -11.391290917706657
+            p_value: 7.801251894537794e-22
+
+
+2. Tests on avgTMAX values for year 2017 
+    a. Linegress result values: 
+            slope: 110397.24137133262
+            intercept: 3768748.8074993924
+            r_value: 0.18164507314556988
+            p_value: 0.12404494433216275
+            std_err: 70928.34054705602
+    b. Normaltest result values: 
+            p_value: 0.4408898717251767
+    c. ttest result values: 
+            t_stat: -11.391290857186446
+            p_value: 7.801254744698219e-22
+
+
+3. Tests on avgTMIN values for year 2016 
+    a. Linegress result values: 
+            slope: 146032.873566557
+            intercept: 4133559.9835607894
+            r_value: 0.21478535059579662
+            p_value: 0.06802912506006054
+            std_err: 78806.26948709581
+    b. Normaltest result values: 
+            p_value: 0.3681443829346534
+    c. ttest result values: 
+            t_stat: -11.391305683726598
+            p_value: 7.800556529419166e-22
+
+4. Tests on avgTMIN values for year 2017 
+    a. Linegress result values: 
+            slope: 140860.34761501843
+            intercept: 4232721.692635229
+            r_value: 0.21028234995891226
+            p_value: 0.07415317226184717
+            std_err: 77720.57981860377
+    b. Normaltest result values: 
+            p_value: 0.20017976025306827
+    c. ttest result values: 
+            t_stat: -11.391305913998469
+            p_value: 7.80054568588881e-22
+
+5. Tests on avgPRCP values for year 2016 
+    a. Linegress result values: 
+            slope: -233977.0122621373
+            intercept: 6564836.654302821
+            r_value: -0.03236184492868158
+            p_value: 0.785776897075697
+            std_err: 857596.9129781764
+    b. Normaltest result values: 
+            p_value: 0.0003617894160241304
+    c. ttest result values: 
+            t_stat: -11.391332323564976
+            p_value: 7.799302156154808e-22
+
+6. Tests on avgTMIN values for year 2017 
+    a. Linegress result values: 
+            slope: -152258.27592133908
+            intercept: 6508552.4538978385
+            r_value: -0.021203276009220527
+            p_value: 0.8586805253850571
+            std_err: 852022.6104318438
+    b. Normaltest result values: 
+            p_value: 0.08357575550204677
+    c. ttest result values: 
+            t_stat: -11.39133237880197
+            p_value: 7.799299555454896e-22
+
