@@ -1,4 +1,4 @@
-# weather_project-
+# Weather Analysis
 
 Our project is focused on studying the correlation between the number of tourists visiting a city and its weather conditions. We have employed different stages such as data extraction, filtering, analysis, visualization, hypothesis testing, and machine learning techniques to draw insights and predict the number of tourists based on weather data. For this study, we have concentrated on GHCN data available on the cluster for the years 2016 and 2017, and the top 100 tourist destinations available on Wikipedia for 2018. We have chosen the tourist data for 2018 as it has the highest number of cities with available weather data. 
 
